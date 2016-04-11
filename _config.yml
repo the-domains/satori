@@ -1,0 +1,28 @@
+name: Satori
+favicon: null
+layout_spectrum: 0.6796159141231328
+typography_spectrum: 0.5810373967979103
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.052753515308722854
+  lightness: 0.235758000286296
+  saturation: 0.5562098419759423
+  rhythmicContrast: 0.31695683021098375
+purpose: []
